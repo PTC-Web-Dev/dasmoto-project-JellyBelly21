@@ -1,3 +1,4 @@
+/* Main Banner */
 .header h1{
     font-family: Helvetica;
     font-size: 100px;
@@ -7,6 +8,7 @@
     background-image:url(../images/pattern.webp);
 }
 
+/* Brushses Banner */
 .brushes  {
 font-family: Helvetica;
 font-size: 32px;
@@ -15,6 +17,7 @@ color: white;
 background-color: mediumspringgreen;
 }
 
+/* Frames Banner */
 .frames {
 font-family: Helvetica;
 font-size: 32px;
@@ -23,6 +26,7 @@ color: white;
 background-color: lightcoral;
 }
 
+/* Paint Banner */
 .paint  {
 font-family: Helvetica;
 font-size: 32px;
@@ -31,6 +35,7 @@ color: white;
 background-color: skyblue;
 }
 
+/* Blue text */
  .price   {
 font-family: Helvetica;
 font-weight: bold;
